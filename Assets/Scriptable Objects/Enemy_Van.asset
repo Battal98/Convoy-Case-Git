@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 618196b86badce549bb666a6e2dc0fc4, type: 3}
+  m_Name: Enemy_Van
+  m_EditorClassIdentifier: 
+  ENEMY_MAXHealth: 100
+  ENEMY_Type: {fileID: 374667920820567816, guid: 6c4d52c835090cb48916d8c642ef59a4, type: 3}
